@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img width="25%" src="http://mixtapecoverking.com/wp-content/uploads/photo-gallery/s-logo.png">
+    <img width="25%" src="/img/logo.png">
     <HelloWorld msg="Hello there."/>
     <message/>
     <inputtext></inputtext>
