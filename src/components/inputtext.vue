@@ -57,7 +57,7 @@ export default {
         this.msg = name;
         if (this.message === name) {
           let tname = name;
-          return (this.error = "Пошли бухать " + tname);
+          return (this.error = "Пошли бухать сегодня " + tname);
         } else {
           this.error = "Не знаю таких";
         }
@@ -66,4 +66,3 @@ export default {
   }
 };
 </script>
-
